@@ -1,7 +1,7 @@
 # Hi there 👋 I'm nacl221.
 
 ### 🧬 About Me
-- 🎓 **Student**: Incoming Computer Science student (starting this Spring)
+- 🎓 **Student**: Computer Science student
 - 🧂 **Origin**: My name comes from "NaCl" (Salt), which is part of my real name.
 - 🎂 **Birthday**: 2008 February 21st
 - ⚡ **Fun Fact**: Interestingly, the software "NaCl(Networking and Cryptography library)" shares two amazing bonds with me:
