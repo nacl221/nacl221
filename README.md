@@ -11,6 +11,7 @@
 - 🐍 **Python**: Basics (Learned in high school)
 - 📉 **Interest**: Data Compression
 - 🔤 **English**: Eiken Pre-2 (1st stage passed) | Targeting TOEIC 450+
+20260523-TOEICIP 405
 
 ### 🎯 Goals
 - Become a skilled engineer who can handle complex data
